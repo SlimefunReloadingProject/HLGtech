@@ -1,0 +1,10 @@
+name: HLGtech
+version: ${project.version}
+author: [HiTech0926,yigexu]
+description: 生物科技粘液附属
+website: https://github.com/HiTech0926/HLGtech
+
+main: com.hitech0926.hlgtech.HLGtech
+depend: [Slimefun]
+
+api-version: 1.17
